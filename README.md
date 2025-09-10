@@ -1,7 +1,7 @@
 # 👋 Olá, bom dia!
 
 
-![Image](https://github.com/user-attachments/assets/68076c4b-26bb-47a7-902f-15319718e223)
+![Image](https://user-images.githubusercontent.com/107668423/217114874-0b74519a-9ec5-4363-a083-3bef607f620a.GIF)
 
 
 
