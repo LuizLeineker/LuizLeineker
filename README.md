@@ -8,7 +8,7 @@
 ### My name is Luiz, I'm 19 years old and I'm studying Computer Science. 
 ### I'm studying a little bit of everything, I really like programming, especially working with C and Java.
 
-##### Me chamo Luiz, tenho 19 anos e faço faculdade de Ciências da Computação, estou no 3º ano do curso. #
+##### Me chamo Luiz, tenho 19 anos e faço faculdade de Ciências da Computação, estou no 4º ano do curso. #
 ##### Estou estudando um pouco de tudo, gosto muito de programação, principalmente de trabalhar com C e Java.
 
 ## 🛠️ Tecnologias e Ferramentas
